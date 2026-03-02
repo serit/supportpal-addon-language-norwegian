@@ -13,172 +13,172 @@ return array(
     |
     */
 
-    "accepted"                  => ":attribute skal accepteres.",
+    "accepted"                  => ":attribute må aksepteres.",
     "active_url"                => ":attribute er ikke en gyldig URL.",
-    "after"                     => ":attribute skal være en dato efter :date.",
-    "alpha"                     => ":attribute må kun indeholde bogstaver.",
-    "alpha_dash"                => ":attribute må kun indeholde bogstaver, tal, bindestreger og bundstreger.",
-    "alpha_num"                 => ":attribute må kun indeholde bogstaver og tal.",
-    "array"                     => ":attribute skal være et array.",
-    "before"                    => ":attribute skal være en dato før :date.",
+    "after"                     => ":attribute må være en dato etter :date.",
+    "alpha"                     => ":attribute kan kun inneholde bokstaver.",
+    "alpha_dash"                => ":attribute kan kun inneholde bokstaver, tall, bindestreker og understreker.",
+    "alpha_num"                 => ":attribute kan kun inneholde bokstaver og tall.",
+    "array"                     => ":attribute må være et array.",
+    "before"                    => ":attribute må være en dato før :date.",
     "between"                   => array(
-        "numeric" => ":attribute skal være imellem :min og :max.",
-        "file"    => ":attribute skal være imellem :min og :max kilobytes.",
-        "string"  => ":attribute skal være imellem :min og :max karakterer.",
-        "array"   => ":attribute skal have imellem :min og :max enheder.",
+        "numeric" => ":attribute må være mellom :min og :max.",
+        "file"    => ":attribute må være mellom :min og :max kilobytes.",
+        "string"  => ":attribute må være mellom :min og :max tegn.",
+        "array"   => ":attribute må ha mellom :min og :max elementer.",
     ),
-    "boolean"                   => ":attribute feltet skal være sandt eller falsk.",
-    "confirmed"                 => ":attribute bekræftelse matcher ikke.",
+    "boolean"                   => ":attribute-feltet må være sant eller usant.",
+    "confirmed"                 => ":attribute-bekreftelsen stemmer ikke.",
     "date"                      => ":attribute er ikke en gyldig dato.",
-    "date_format"               => ":attribute matcher ikke formatet :format.",
-    "different"                 => ":attribute og :other skal være forskellige.",
-    "digits"                    => ":attribute skal være :digits tal.",
-    "digits_between"            => ":attribute skal være imellem :min og :max digits.",
-    "email"                     => ":attribute skal være en gyldig email addresse.",
+    "date_format"               => ":attribute samsvarer ikke med formatet :format.",
+    "different"                 => ":attribute og :other må være forskjellige.",
+    "digits"                    => ":attribute må være :digits siffer.",
+    "digits_between"            => ":attribute må være mellom :min og :max siffer.",
+    "email"                     => ":attribute må være en gyldig e-postadresse.",
     "exists"                    => "den valgte :attribute er ikke gyldig.",
-    "image"                     => ":attribute skal være et billede.",
+    "image"                     => ":attribute må være et bilde.",
     "in"                        => "den valgte :attribute er ikke gyldig.",
-    "integer"                   => ":attribute skal være en integral.",
-    "ip"                        => ":attribute skal være en gyldig IP addresse.",
+    "integer"                   => ":attribute må være et heltall.",
+    "ip"                        => ":attribute må være en gyldig IP-adresse.",
     "max"                       => array(
-        "numeric" => ":attribute må ikke være større end :max.",
-        "file"    => ":attribute må ikke være større end :max kilobytes.",
-        "string"  => ":attribute må ikke være større end :max characters.",
-        "array"   => ":attribute må ikke have mere end :max.",
+        "numeric" => ":attribute kan ikke være større enn :max.",
+        "file"    => ":attribute kan ikke være større enn :max kilobytes.",
+        "string"  => ":attribute kan ikke være større enn :max tegn.",
+        "array"   => ":attribute kan ikke ha mer enn :max.",
     ),
-    "mimes"                     => ":attribute skal være en fil af typen: :values.",
+    "mimes"                     => ":attribute må være en fil av typen: :values.",
     "min"                       => array(
-        "numeric" => ":attribute skal være mindst :min.",
-        "file"    => ":attribute skal være mindst :min kilobytes.",
-        "string"  => ":attribute skal være mindst :min characters.",
-        "array"   => ":attribute skal have mindst :min items.",
+        "numeric" => ":attribute må være minst :min.",
+        "file"    => ":attribute må være minst :min kilobytes.",
+        "string"  => ":attribute må være minst :min tegn.",
+        "array"   => ":attribute må ha minst :min elementer.",
     ),
     "not_in"                    => "Den valgte :attribute er ikke gyldig.",
-    "numeric"                   => ":attribute skal være a number.",
-    "regex"                     => ":attribute formatet er ikke gyldigt.",
-    "required"                  => ":attribute felt er påkrævet.",
-    "required_if"               => ":attribute felt er påkrævet når :other er :value.",
-    "required_with"             => ":attribute felt er påkrævet når :values er til stede.",
-    "required_with_all"         => ":attribute felt er påkrævet når :values er til stede.",
-    "required_without"          => ":attribute felt er påkrævet når :values ikke er til stede.",
-    "required_without_all"      => ":attribute felt er påkrævet når ingen af :values er til stede.",
-    "same"                      => ":attribute og :other skal matche.",
+    "numeric"                   => ":attribute må være et tall.",
+    "regex"                     => ":attribute-formatet er ikke gyldig.",
+    "required"                  => ":attribute-feltet er påkrevd.",
+    "required_if"               => ":attribute-feltet er påkrevd når :other er :value.",
+    "required_with"             => ":attribute-feltet er påkrevd når :values er til stede.",
+    "required_with_all"         => ":attribute-feltet er påkrevd når :values er til stede.",
+    "required_without"          => ":attribute-feltet er påkrevd når :values ikke er til stede.",
+    "required_without_all"      => ":attribute-feltet er påkrevd når ingen av :values er til stede.",
+    "same"                      => ":attribute og :other må stemme overens.",
     "size"                      => array(
-        "numeric" => ":attribute skal være :size.",
-        "file"    => ":attribute skal være :size kilobytes.",
-        "string"  => ":attribute skal være :size karakterer.",
-        "array"   => ":attribute skal indeholde :size.",
+        "numeric" => ":attribute må være :size.",
+        "file"    => ":attribute må være :size kilobytes.",
+        "string"  => ":attribute må være :size tegn.",
+        "array"   => ":attribute må inneholde :size.",
     ),
-    "unique"                    => ":attribute er allerede brugt.",
-    "url"                       => ":attribute format er ikke gyldigt.",
+    "unique"                    => ":attribute er allerede i bruk.",
+    "url"                       => ":attribute-formatet er ikke gyldig.",
     "template_exists"           => "Den valgte :attribute er ikke gyldig.",
-    "is_valid_captcha"          => "Captcha koden indtastet var ikke korrekt, forsøg venligst igen.",
-    "user_password_strength"    => ":attribute skal indeholde: :user_password_strength.",
-    "operator_password_strength" => ":attribute skal indeholde: :operator_password_strength.",
+    "is_valid_captcha"          => "Captcha-koden som ble skrevet inn var ikke korrekt, forsøk vennligst igjen.",
+    "user_password_strength"    => ":attribute må inneholde: :user_password_strength.",
+    "operator_password_strength" => ":attribute må inneholde: :operator_password_strength.",
 
     /*
      * 2.1.0
      */
-    "logo"                      => "Logoet skal pege på en gyldig billed fil (direkte URL eller relativ fil sti til base biblioteket).",
+    "logo"                      => "Logoen må peke på en gyldig bildefil (direkte URL eller relativ filsti til basisbiblioteket).",
 
     /*
      * 2.2.0
      */
-    "required_with_translation" => ":translation oversættelsen for :attribute feltet er krævet når :values er til stede.",
-    "max_translation"           => ":translation oversættelsen for :attribute feltet må ikke være større end :max characters.",
-    "unique_translation"        => ":translation oversættelsen for :attribute feltet er allerede blevet brugt.",
+    "required_with_translation" => ":translation-oversettelsen for :attribute-feltet er påkrevd når :values er til stede.",
+    "max_translation"           => ":translation-oversettelsen for :attribute-feltet kan ikke være større enn :max tegn.",
+    "unique_translation"        => ":translation-oversettelsen for :attribute-feltet er allerede i bruk.",
 
     /*
      * 2.3.0
      */
-    "required_translation"      => ":translation oversættelsen for :attribute feltet er påkrævet.",
-    "customfield_not_cyclic"    => "Feltet kan ikke afhænge af et af dets underfelter.",
+    "required_translation"      => ":translation-oversettelsen for :attribute-feltet er påkrevd.",
+    "customfield_not_cyclic"    => "Feltet kan ikke avhenge av et av dets underfelter.",
 
     /*
      * 2.3.1
      */
-    "is_slug"                   => "Slug feltet kan kun indeholde alfanumeriske karakterer, procent enkod venligst special karakterer.",
-    "article_slug_unique"       => "Slug er allerede blevet anvendt.",
-    "captcha_required"          => "Captcha er påkrævet.",
-    "ticket_number_format"      => "Ticket nummer formatet er ikke gyldigt.",
+    "is_slug"                   => "Slug-feltet kan kun inneholde alfanumeriske tegn, prosentkod vennligst spesialtegn.",
+    "article_slug_unique"       => "Slug er allerede i bruk.",
+    "captcha_required"          => "Captcha er påkrevd.",
+    "ticket_number_format"      => "Saksnummerformatet er ikke gyldig.",
 
     /*
      * 2.4.0
      */
-    "after_or_equal"            => ":attribute skal være en dato efter eller lig med :date.",
-    "before_or_equal"           => ":attribute skal være en dato før eller lig med :date.",
-    "dimensions"                => ":attribute har ugyldige billed dimensioner.",
-    "distinct"                  => ":attribute feltet har en duplikeret værdi.",
-    "file"                      => ":attribute skal være en fil.",
-    "filled"                    => ":attribute feltet skal have en værdi.",
+    "after_or_equal"            => ":attribute må være en dato etter eller lik :date.",
+    "before_or_equal"           => ":attribute må være en dato før eller lik :date.",
+    "dimensions"                => ":attribute har ugyldige bildedimensjoner.",
+    "distinct"                  => ":attribute-feltet har en duplikat verdi.",
+    "file"                      => ":attribute må være en fil.",
+    "filled"                    => ":attribute-feltet må ha en verdi.",
     "gt"                        => array(
-        "numeric" => ":attribute skal være større end :value.",
-        "file"    => ":attribute skal være større end :value kilobytes.",
-        "string"  => ":attribute skal være større end :value karakterer.",
-        "array"   => ":attribute skal have mere end :value.",
+        "numeric" => ":attribute må være større enn :value.",
+        "file"    => ":attribute må være større enn :value kilobytes.",
+        "string"  => ":attribute må være større enn :value tegn.",
+        "array"   => ":attribute må ha mer enn :value.",
     ),
     "gte"                       => array(
-        "numeric" => ":attribute skal være større end eller lig med :value.",
-        "file"    => ":attribute skal være større end eller lig med :value kilobytes.",
-        "string"  => ":attribute skal være større end eller lig med :value karakterer.",
-        "array"   => ":attribute skal have :value eller flere.",
+        "numeric" => ":attribute må være større enn eller lik :value.",
+        "file"    => ":attribute må være større enn eller lik :value kilobytes.",
+        "string"  => ":attribute må være større enn eller lik :value tegn.",
+        "array"   => ":attribute må ha :value eller flere.",
     ),
-    "in_array"                  => ":attribute feltet eksisterer ikke i :other.",
-    "ipv4"                      => ":attribute skal være en gyldig IPv4 address.",
-    "ipv6"                      => ":attribute skal være en gyldig IPv6 address.",
-    "json"                      => ":attribute skal være en gyldig JSON streng.",
+    "in_array"                  => ":attribute-feltet eksisterer ikke i :other.",
+    "ipv4"                      => ":attribute må være en gyldig IPv4-adresse.",
+    "ipv6"                      => ":attribute må være en gyldig IPv6-adresse.",
+    "json"                      => ":attribute må være en gyldig JSON-streng.",
     "lt"                        => array(
-        "numeric" => ":attribute skal være mindre end :value.",
-        "file"    => ":attribute skal være mindre end :value kilobytes.",
-        "string"  => ":attribute skal være mindre end :value karakterer.",
-        "array"   => ":attribute skal have mindre end :value.",
+        "numeric" => ":attribute må være mindre enn :value.",
+        "file"    => ":attribute må være mindre enn :value kilobytes.",
+        "string"  => ":attribute må være mindre enn :value tegn.",
+        "array"   => ":attribute må ha mindre enn :value.",
     ),
     "lte"                       => array(
-        "numeric" => ":attribute skal være mindre end eller lig med :value.",
-        "file"    => ":attribute skal være mindre end eller lig med :value kilobytes.",
-        "string"  => ":attribute skal være mindre end eller lig med :value karakterer.",
-        "array"   => ":attribute må ikke have mere end :value.",
+        "numeric" => ":attribute må være mindre enn eller lik :value.",
+        "file"    => ":attribute må være mindre enn eller lik :value kilobytes.",
+        "string"  => ":attribute må være mindre enn eller lik :value tegn.",
+        "array"   => ":attribute kan ikke ha mer enn :value.",
     ),
-    "mimetypes"                 => ":attribute skal være en fil af typen: :values.",
-    "not_regex"                 => ":attribute format er ikke gyldigt.",
-    "present"                   => ":attribute felt skal være til stede.",
-    "required_unless"           => ":attribute felt er påkrævet med mindre :other er i :values.",
-    "string"                    => ":attribute skal være en streng.",
-    "timezone"                  => ":attribute skal være en gyldig zone.",
-    "uploaded"                  => ":attribute gennemførte ikke upload.",
+    "mimetypes"                 => ":attribute må være en fil av typen: :values.",
+    "not_regex"                 => ":attribute-formatet er ikke gyldig.",
+    "present"                   => ":attribute-feltet må være til stede.",
+    "required_unless"           => ":attribute-feltet er påkrevd med mindre :other er i :values.",
+    "string"                    => ":attribute må være en streng.",
+    "timezone"                  => ":attribute må være en gyldig tidssone.",
+    "uploaded"                  => ":attribute ble ikke lastet opp.",
 
     /*
      * 2.5.0
      */
-    "domain"                    => "En eller flere domæne navne er ikke gyldige.",
+    "domain"                    => "Ett eller flere domenenavn er ikke gyldige.",
 
     /*
      * 2.5.1
      */
-    "valid_twig"                => ":attribute er ikke gyldig. Brug venligst 'Preview' knappen for at se detaljer.",
+    "valid_twig"                => ":attribute er ikke gyldig. Bruk vennligst 'Forhåndsvisning'-knappen for å se detaljer.",
 
     /*
      * 3.0.0
      */
-    "embed_image"               => ":attribute skal være en fil af typen: jpeg, png, eller gif.",
-    "starts_with"               => ":attribute skal starte med en af de følgende: :values.",
+    "embed_image"               => ":attribute må være en fil av typen: jpeg, png eller gif.",
+    "starts_with"               => ":attribute må starte med en av følgende: :values.",
 
     /*
      * 3.5.0
      */
-    "phone"                     => "Det oplyste telefonnummer er ikke gyldigt.",
+    "phone"                     => "Det oppgitte telefonnummeret er ikke gyldig.",
 
     /*
      * 4.3.0
      */
-    "is_invalid"                => "The :attribute is invalid.",
+    "is_invalid"                => ":attribute er ikke gyldig.",
 
     /*
      * 5.0.0
      */
-    "current_password"           => "The password is incorrect.",
-    "department_email_per_brand" => "An email account must exist for each brand assigned to this department.",
-    "department_has_a_priority"  => "Department(s) :departments are public and must be assigned to at least one priority.",
+    "current_password"           => "Passordet er feil.",
+    "department_email_per_brand" => "En e-postkonto må eksistere for hvert brand tildelt denne avdelingen.",
+    "department_has_a_priority"  => "Avdeling(er) :departments er offentlig og må tildeles minst én prioritet.",
 
     /*
     |--------------------------------------------------------------------------
@@ -193,17 +193,17 @@ return array(
 
     "custom" => array(
         "roles.*" => array(
-            "exists" => "Den valgte rolle er ikke gyldig.",
+            "exists" => "Den valgte rollen er ikke gyldig.",
         ),
         "category.*.type" => array(
-            "required" => "En eller flere selvhjælps typer skal være valgt.",
+            "required" => "Én eller flere selvbetjeningstyper må velges.",
         ),
         "category.*.categories" => array(
-            "required" => "En eller flere kategorier er krævede når en selvhjælps type er valgt.",
-            "exists"   => "En eller flere valgte kategorier er ikke gyldig.",
+            "required" => "Én eller flere kategorier er påkrevd når en selvbetjeningstype er valgt.",
+            "exists"   => "Én eller flere valgte kategorier er ikke gyldige.",
         ),
         "brand.*" => array(
-            "exists" => "Det valgte brand er ikke gyldigt.",
+            "exists" => "Det valgte brandet er ikke gyldig.",
         ),
     ),
 

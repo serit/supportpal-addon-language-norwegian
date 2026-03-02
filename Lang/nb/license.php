@@ -2,50 +2,50 @@
 
 return array(
 
-    "license"           => "Licens",
-    "license_key"       => "Licens Nøgle",
-    "error"             => "Fejl!",
-    "submit"            => "Udfør",
-    "update"            => "Opdater",
+    "license"           => "Lisens",
+    "license_key"       => "Lisensnøkkel",
+    "error"             => "Feil!",
+    "submit"            => "Utfør",
+    "update"            => "Oppdater",
 
-    "reasons"           => "Mulige Årsager",
-    "new_key"           => "Ny Licens Nøgle",
-    "enter_key"         => "Hvis du har en ny licens nøgle, indtast den da venligst nedenfor og klik Udfør for at fortsætte.",
-    "assistance"        => "Har du brug for assistance?",
+    "reasons"           => "Mulige årsaker",
+    "new_key"           => "Ny lisensnøkkel",
+    "enter_key"         => "Hvis du har en ny lisensnøkkel, skriv den inn nedenfor og klikk Utfør for å fortsette.",
+    "assistance"        => "Trenger du hjelp?",
 
-    "no_license"        => "Ingen licens fundet.",
-    "license_invalid"   => "Licens ikke gyldig",
+    "no_license"        => "Ingen lisens funnet.",
+    "license_invalid"   => "Lisens ikke gyldig",
     "invalid"           => "Ikke gyldig",
 
-    "incorrect_license" => "En ukorrekt licens er blevet anvendt.",
-    "ip_changed"        => "IP addressen dit system anvender har ændret sig.",
-    "domain_changed"    => "Domænet du anvender har ændret sig.",
-    "reason_1_desc"     => "Hvis din licens nøgle er korrekt, forsøg da venligst at genudstede den fra dit klient område før du kontakter support.",
+    "incorrect_license" => "En ukorrekt lisens er blitt brukt.",
+    "ip_changed"        => "IP-adressen ditt system bruker har endret seg.",
+    "domain_changed"    => "Domenet du bruker har endret seg.",
+    "reason_1_desc"     => "Hvis lisensnøkkelen er korrekt, forsøk vennligst å gjenutsted den fra ditt klientområde før du kontakter support.",
 
     /*
      * 2.1.0
      */
-    "server_response"   => "Server Svar",
-    "need_to_reissue"   => "Du kan have behov for at <strong>genudstede</strong> licensen på dit <a href='http://www.supportpal.com/manage/' target='_blank'>klient område</a>.",
+    "server_response"   => "Serversvar",
+    "need_to_reissue"   => "Du kan ha behov for å <strong>gjenutsted</strong> lisensen på ditt <a href='http://www.supportpal.com/manage/' target='_blank'>klientområde</a>.",
 
     /*
      * 2.2.0
      */
-    "enter_new_key"     => "Indtast ny licens nøgle",
+    "enter_new_key"     => "Skriv inn ny lisensnøkkel",
 
     /*
      * 2.3.1
      */
-    "license_valid"     => "Licensen er Gyldig!",
+    "license_valid"     => "Lisensen er gyldig!",
 
     /*
      * 2.4.1
      */
-    "multi_ip_support"  => "Overvej at aktiver <a href=':href' target='_blank'>Multi-IP support</a> i dit klient område for undersøttelse af yderligere IP adresser.",
+    "multi_ip_support"  => "Vurder å aktivere <a href=':href' target='_blank'>Multi-IP-støtte</a> i ditt klientområde for støtte av ytterligere IP-adresser.",
 
     /*
      * 4.0.0
      */
-    "unlicensed"        => "Ulicenseret",
+    "unlicensed"        => "Ulisensiert",
 
 );

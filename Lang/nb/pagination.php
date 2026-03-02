@@ -3,6 +3,6 @@
 return array(
 
     "previous" => " Forrige",
-    "next"     => "Næste",
+    "next"     => "Neste",
 
 );

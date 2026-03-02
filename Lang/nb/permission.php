@@ -2,139 +2,139 @@
 
 return array(
 
-    "generalsetting"    => "Opdater generelle indstillinger",
+    "generalsetting"    => "Oppdater generelle innstillinger",
 
     // Core
-    "apitoken"          => "Administrer API Tokens",
-    "emailtemplate"     => "Administrer Email Skabeloner",
-    "ipban"             => "Administrer IP Bans",
-    "ipwhitelist"       => "Administrer IP Whitelist",
-    "language"          => "Administrer Sprog",
-    "license"           => "Vis Licens Information",
-    "module"            => "Administrer Moduler",
-    "scheduledtask"     => "Administrer Planlagte Opgaver",
-    "spamrule"          => "Administrer Spam Regler",
-    "emaillog"          => "Vis Email Log",
-    "emailqueue"        => "Vis Email Kø",
-    "systemcleanup"     => "Udfør System Oprydning",
+    "apitoken"          => "Administrer API-tokens",
+    "emailtemplate"     => "Administrer e-postmaler",
+    "ipban"             => "Administrer IP-blokkeringer",
+    "ipwhitelist"       => "Administrer IP-hviteliste",
+    "language"          => "Administrer språk",
+    "license"           => "Vis lisensinformasjon",
+    "module"            => "Administrer moduler",
+    "scheduledtask"     => "Administrer planlagte oppgaver",
+    "spamrule"          => "Administrer spamregler",
+    "emaillog"          => "Vis e-postlogg",
+    "emailqueue"        => "Vis e-postkø",
+    "systemcleanup"     => "Utfør systemopprydding",
 
     // User
-    "operatorgroup"     => "Administrer Operatør Grupper",
-    "organisation"      => "Administrer Organisationer",
-    "role"              => "Administrer Operatør Roller",
-    "user_view"         => "Vis Brugere",
-    "user_add"          => "Tilføj Brugere",
-    "user_edit"         => "Rediger Brugere",
-    "user_delete"       => "Slet Brugere",
-    "usergroup"         => "Administrer Bruger Grupper",
-    "massemail"         => "Send Masse Email",
-    "ldapaccount"       => "Administrer LDAP Konti",
-    "activitylog"       => "Vis System Aktivitets Log",
-    "operatorlog"       => "Vis Operatør Login Log",
+    "operatorgroup"     => "Administrer operatørgrupper",
+    "organisation"      => "Administrer organisasjoner",
+    "role"              => "Administrer operatørroller",
+    "user_view"         => "Vis brukere",
+    "user_add"          => "Legg til brukere",
+    "user_edit"         => "Rediger brukere",
+    "user_delete"       => "Slett brukere",
+    "usergroup"         => "Administrer brukergrupper",
+    "massemail"         => "Send masse-e-post",
+    "ldapaccount"       => "Administrer LDAP-kontoer",
+    "activitylog"       => "Vis systemaktivitetslogg",
+    "operatorlog"       => "Vis operatørinnloggingslogg",
 
     // Ticket
-    "cannedresponse"    => "Administrer Standardsvar",
-    "channel"           => "Administrer Kanaler",
-    "department"        => "Administrer Afdelinger",
-    "filter"            => "Administrer Filtre",
-    "holiday"           => "Administrer Ferier",
-    "macro"             => "Administrer Makroer",
-    "priority"          => "Administrer Prioriteter",
-    "schedule"          => "Administrer Tidsplaner",
-    "slaplan"           => "Administrer SLA Planer",
-    "status"            => "Administrer Statuser",
-    "ticket_view"       => "Vis Tickets",
-    "ticket_add"        => "Åbn Tickets",
-    "ticket_edit"       => "Opdater Tickets",
-    "ticketcustomfield" => "Administrer Brugerdefinerede Felter",
+    "cannedresponse"    => "Administrer standardsvar",
+    "channel"           => "Administrer kanaler",
+    "department"        => "Administrer avdelinger",
+    "filter"            => "Administrer filtre",
+    "holiday"           => "Administrer ferier",
+    "macro"             => "Administrer makroer",
+    "priority"          => "Administrer prioriteter",
+    "schedule"          => "Administrer tidsplaner",
+    "slaplan"           => "Administrer SLA-planer",
+    "status"            => "Administrer statuser",
+    "ticket_view"       => "Vis saker",
+    "ticket_add"        => "Åpne saker",
+    "ticket_edit"       => "Oppdater saker",
+    "ticketcustomfield" => "Administrer egendefinerte felt",
 
     // Self-service
-    "article"           => "Administrer Artikler",
-    "category"          => "Administrer Kategorier",
-    "comment"           => "Administrer Kommentarer",
-    "selfservicetype"   => "Administrer Typer",
+    "article"           => "Administrer artikler",
+    "category"          => "Administrer kategorier",
+    "comment"           => "Administrer kommentarer",
+    "selfservicetype"   => "Administrer typer",
 
     // Report
-    "report"            => "Vis Rapporter",
+    "report"            => "Vis rapporter",
 
     // General
-    "tag"               => "Administrer Tags",
+    "tag"               => "Administrer tagger",
 
     /*
      * 2.0.3
      */
     // User
-    "operator"          => "Administrer Operatører",
+    "operator"          => "Administrer operatører",
 
     /*
      * 2.1.0
      */
     // Core
-    "brand"             => "Administrer Brands",
-    "phpinfo"           => "Vis PHP Information",
+    "brand"             => "Administrer brands",
+    "phpinfo"           => "Vis PHP-informasjon",
 
     // User
-    "usercustomfield"   => "Administrer Brugers Brugerdefinerede Felter",
-    "organisationcustomfield" => "Administrer Organisationens Brugerdefinerede Felter",
+    "usercustomfield"   => "Administrer egendefinerte brukerfelt",
+    "organisationcustomfield" => "Administrer egendefinerte organisasjonsfelt",
 
     /*
      * 2.1.1
      */
     // Core
-    "logfiles"          => "Administrer Log Filer",
+    "logfiles"          => "Administrer loggfiler",
 
     /*
      * 2.4.0
      */
     // User
-    "sociallogin"       => "Administrer SOME Logins",
+    "sociallogin"       => "Administrer SoMe-innlogginger",
 
     /*
      * 2.5.0
      */
     // Ticket
-    "ticket_delete"     => "Slet Tickets Permanent",
-    "ticket_trash"      => "Flyt Tickets Til Skraldespand",
+    "ticket_delete"     => "Slett saker permanent",
+    "ticket_trash"      => "Flytt saker til papirkurv",
 
     /*
      * 3.0.0
      */
-    "selfservicefeedbackform" => "Administrer Feedback Formularer",
-    "ticketfeedbackform"      => "Administrer Feedback Formularer",
+    "selfservicefeedbackform" => "Administrer tilbakemeldingsskjemaer",
+    "ticketfeedbackform"      => "Administrer tilbakemeldingsskjemaer",
 
     /*
      * 3.3.0
      */
-    "integration"       => "Administrer Tredjeparts Integrationer",
+    "integration"       => "Administrer tredjepartsintegrasjoner",
 
     /*
      * 3.6.0
      */
-    "systemupdate"      => "Udfør System Opdatering",
+    "systemupdate"      => "Utfør systemoppdatering",
 
     /*
      * 3.7.0
      */
-    "background_jobs"   => "Vis Baggrunds Jobs",
+    "background_jobs"   => "Vis bakgrunnsoppgaver",
 
     /*
      * 4.0.0
      */
-    "addon"             => "Vis og Håndter Tilføjelser",
-    "system_health"     => "Vis System Helbred",
+    "addon"             => "Vis og håndter tillegg",
+    "system_health"     => "Vis systemhelse",
 
     /*
      * 4.2.0
      */
-    "operatorreplytemplate" => "Manage Operator Reply Templates",
+    "operatorreplytemplate" => "Administrer operatørsvarmaler",
 
     /*
      * 5.0.0
      */
-    "private_messaging" => "View Private Messages",
+    "private_messaging" => "Vis private meldinger",
 
     /*
      * 5.1.0
      */
-    "manage_report"     => "Manage Reports",
+    "manage_report"     => "Administrer rapporter",
 );

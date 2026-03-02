@@ -3,159 +3,159 @@
 return array(
 
     "deleted"               => "Slettet!",
-    "success"               => "Success",
-    "error"                 => "Fejl",
-    "in_progress"           => "Igang",
+    "success"               => "Vellykket",
+    "error"                 => "Feil",
+    "in_progress"           => "Pågår",
 
-    "save_order"            => "Forsøger at gemme den opdaterede sortering",
+    "save_order"            => "Forsøker å lagre den oppdaterte sorteringen",
 
     "are_you_sure"          => "Er du sikker?",
     "yes_im_sure"           => "Ja, jeg er sikker",
 
-    "success_created"       => "Oprettede ny :item! med success",
-    "error_created"         => "Fejlede i oprettelse af :item.",
+    "success_created"       => "Opprettet ny :item!",
+    "error_created"         => "Feilet i opprettelse av :item.",
 
-    "success_deleted"       => "Slettet med success :item!",
-    "error_deleted"         => "Fejlede forsøg på sletning af :item.",
+    "success_deleted"       => "Slettet :item!",
+    "error_deleted"         => "Feilet forsøk på sletting av :item.",
 
-    "success_updated"       => "Opdateret med success :item!",
-    "error_updated"         => "Fejlede forsøg på opdatering af :item.",
+    "success_updated"       => "Oppdatert :item!",
+    "error_updated"         => "Feilet forsøk på oppdatering av :item.",
 
-    "error_notfound"        => ":item med ID blev ikke fundet.",
-    "error_notfound_name"   => ":item med det givne navn blev ikke fundet.",
-    "report_notfound"       => "Raporten med det givne kategori og navn blev ikke fundet.",
+    "error_notfound"        => ":item med ID ble ikke funnet.",
+    "error_notfound_name"   => ":item med det gitte navnet ble ikke funnet.",
+    "report_notfound"       => "Rapporten med den gitte kategorien og navnet ble ikke funnet.",
 
-    "success_ordering"      => "Sortering opdateret med success!",
-    "error_ordering"        => "Fejlede forsøg på opdatering af sortering.",
+    "success_ordering"      => "Sortering oppdatert!",
+    "error_ordering"        => "Feilet forsøk på oppdatering av sortering.",
 
-    "error_login"           => "Login forsøg fejlet.",
-    "success_logout"        => "Logget ud med success.",
+    "error_login"           => "Innloggingsforsøk feilet.",
+    "success_logout"        => "Logget ut.",
 
-    "please_correct"        => "Ret venligst følgende fejl og forsøg igen.",
+    "please_correct"        => "Rett vennligst følgende feil og forsøk igjen.",
 
-    "success_settings"      => "Indstillinger opdateret med success!",
-    "error_settings"        => "Forsøget på opdatering af indstillinger fejlede.",
+    "success_settings"      => "Innstillinger oppdatert!",
+    "error_settings"        => "Forsøket på oppdatering av innstillinger feilet.",
 
-    "success_action"        => "Handling udført med success!",
-    "error_action"          => "Handlingen blev ikke udført.",
+    "success_action"        => "Handling utført!",
+    "error_action"          => "Handlingen ble ikke utført.",
 
-    "error_embed_image"     => "Billedet blev ikke uploadet.",
+    "error_embed_image"     => "Bildet ble ikke lastet opp.",
 
-    "unauthorised"          => "Uautoriseret",
-    "not_authorised"        => "Du er ikke autoriseret til at udføre denne handling.",
-    "not_permitted"         => "Du har ikke tilladelse til at se denne side. Hvis du mener dette er en fejl, kontakt din administrator.",
+    "unauthorised"          => "Uautorisert",
+    "not_authorised"        => "Du er ikke autorisert til å utføre denne handlingen.",
+    "not_permitted"         => "Du har ikke tillatelse til å se denne siden. Hvis du mener dette er en feil, kontakt din administrator.",
 
-    "page_not_found"        => "Siden blev ikke fundet",
-    "cant_find_page"        => "Vi kan ikke finde den side du leder efter.",
+    "page_not_found"        => "Siden ble ikke funnet",
+    "cant_find_page"        => "Vi kan ikke finne siden du leter etter.",
 
-    "please_report"         => "Indberet venligst til en administrator hvis denne handling var uventet.",
+    "please_report"         => "Rapporter vennligst til en administrator hvis denne handlingen var uventet.",
 
-    "return_to"             => "Gå tilbage til :page.",
+    "return_to"             => "Gå tilbake til :page.",
 
-    "session_expired"       => "Din session er udløbet, log venligst ind igen.",
-    "session_refresh"       => "Din session er udløbet, opdater venligst siden og prøv igen.",
+    "session_expired"       => "Din økt er utløpt, logg vennligst inn igjen.",
+    "session_refresh"       => "Din økt er utløpt, oppdater vennligst siden og prøv igjen.",
 
-    "general_error"         => "Der opstod en fejl. Forsøg venligst igen.",
+    "general_error"         => "Det oppstod en feil. Forsøk vennligst igjen.",
 
     "no_results"            => "Ingen resultater.",
 
-    "assign_incomplete"     => "Denne handling kunne ikke fuldføres. :names kunne ikke tildeles til nogle tickets.",
+    "assign_incomplete"     => "Denne handlingen kunne ikke fullføres. :names kunne ikke tildeles til noen saker.",
 
-    "maintenance_mode"      => "Vedligeholdelses tilstand er aktiv. Helpdesken er utilgængelig for brugere, husk at slå vedligeholdelses tilstand fra igen.",
+    "maintenance_mode"      => "Vedlikeholdsmodus er aktiv. Helpdesken er utilgjengelig for brukere, husk å slå av vedlikeholdsmodus igjen.",
 
-    "invalid_captcha"       => "Captcha koden indtastet var ikke korrekt, forsøg venligst igen.",
-    "blocked_as_spam"       => "Din forespørgsel blev detekteret som spam. Kontakt venligst en administrator hvis du mener dette er en fejl.",
-    "account_exists"        => "En aktiv konto med denne email adresse eksisterer allerede. Log venligst ind eller brug funktionen til gendannelse af adgangskode hvis du ikke kan huske din adgangskode.",
-    "error_loading_comments" => "Der opstod et problem med indlæsning af kommentarer.",
+    "invalid_captcha"       => "Captcha-koden som ble skrevet inn var ikke korrekt, forsøk vennligst igjen.",
+    "blocked_as_spam"       => "Din forespørsel ble oppdaget som spam. Kontakt vennligst en administrator hvis du mener dette er en feil.",
+    "account_exists"        => "En aktiv konto med denne e-postadressen eksisterer allerede. Logg vennligst inn eller bruk funksjonen for gjenoppretting av passord hvis du ikke husker passordet ditt.",
+    "error_loading_comments" => "Det oppstod et problem med innlasting av kommentarer.",
 
-    "invalid_auth"          => "Dine login oplysninger blev ikke valideret.",
+    "invalid_auth"          => "Dine innloggingsopplysninger ble ikke validert.",
 
     "forbidden"             => "Forbudt",
 
-    "not_logged_exception"  => "<strong>Ups! Noget gik galt.</strong><br />Underret din administrator hvis fejlen fortsætter med at opstå.",
+    "not_logged_exception"  => "<strong>Ups! Noe gikk galt.</strong><br />Underrett din administrator hvis feilen fortsetter å oppstå.",
 
-    "too_many_ticket_reqs"  => "Der er oprettet for mange ticket oprettelser for denne adresse. :email. Grænsen er :max på :decay minutes.",
+    "too_many_ticket_reqs"  => "Det er opprettet for mange saker for denne adressen. :email. Grensen er :max på :decay minutter.",
 
-    "not_operator"          => "Noget gik galt. Den valgte operatør er ikke gyldig, kontroller venligst at de tilhører en operatør gruppe og at gruppen har en associaceret rolle.",
+    "not_operator"          => "Noe gikk galt. Den valgte operatøren er ikke gyldig, kontroller vennligst at de tilhører en operatørgruppe og at gruppen har en tilknyttet rolle.",
 
     // The error message is appended using JavaScript...
-    "datatable_error"       => "<strong>Ups! Noget gik galt.</strong><br />En fejl opstod ved indlæsning af tabel data. Underret venligst din administrator hvis fejlen fortsætter.",
+    "datatable_error"       => "<strong>Ups! Noe gikk galt.</strong><br />En feil oppstod ved innlasting av tabelldata. Underrett vennligst din administrator hvis feilen fortsetter.",
 
-    "missing_extension"     => "Manglende udvidelse",
-    "php_ldap_missing"      => "php-ldap udvidelsen er påkrævet for brug af LDAP autorisation. Aktiver den og genindlæs denne side.",
+    "missing_extension"     => "Manglende utvidelse",
+    "php_ldap_missing"      => "php-ldap-utvidelsen er påkrevd for bruk av LDAP-autorisasjon. Aktiver den og last inn siden på nytt.",
 
     /*
      * 2.0.3
      */
-    "only_ssl_connections"  => "Kun SSL forbindelser er tilladt, du bør opdatere din forespørgsel til at anvende en sikker forbindelse.",
-    "queued_emails"         => "Success - Emails vil begynde at blive sat i kø og afsendt om et øjeblik.",
-    "error_loading_message" => "En fejl opstod imens beskeden blev indlæst. Forsøg venligst igen.",
-    "please_refresh"        => "Genindlæs venligst denne side.",
+    "only_ssl_connections"  => "Kun SSL-tilkoblinger er tillatt, du bør oppdatere forespørselen din til å bruke en sikker tilkobling.",
+    "queued_emails"         => "Vellykket - e-poster vil begynne å bli satt i kø og sendt om et øyeblikk.",
+    "error_loading_message" => "En feil oppstod mens meldingen ble lastet inn. Forsøk vennligst igjen.",
+    "please_refresh"        => "Last inn denne siden på nytt.",
 
     /*
      * 2.1.0
      */
-    "unable_to_connect_db"  => "<strong>Servicen er ikke til rådighed i øjeblikket.</strong><br />Der kunne ikke tilsluttes til databasen.",
-    "category_required"     => "Artiklen skal tilhøre en eller flere kategorier.",
+    "unable_to_connect_db"  => "<strong>Tjenesten er ikke tilgjengelig for øyeblikket.</strong><br />Kunne ikke koble til databasen.",
+    "category_required"     => "Artikkelen må tilhøre én eller flere kategorier.",
     "warning"               => "Advarsel",
-    "note"                  => "Note",
-    "brand_invalid_dept"    => "Handlingen kunne ikke udføres til fulde. Afdelingen kunne ikke opdateres på nogle tickets pga. deres brand.",
+    "note"                  => "Notat",
+    "brand_invalid_dept"    => "Handlingen kunne ikke utføres fullstendig. Avdelingen kunne ikke oppdateres på noen saker p.g.a. deres brand.",
 
     /*
      * 2.1.1
      */
-    "upload_error"          => "Forsøg på upload af vedhæftning fejlede \":filename\", Årsag: \":reason\"",
-    "upload_max_size"       => "Filen skal være mindre end :size",
-    "upload_wrong_type"     => "Fil typen er ikke tilladt",
+    "upload_error"          => "Forsøk på opplasting av vedlegg feilet \":filename\", Årsak: \":reason\"",
+    "upload_max_size"       => "Filen må være mindre enn :size",
+    "upload_wrong_type"     => "Filtypen er ikke tillatt",
 
     /*
      * 2.3.0
      */
-    "delete_record"         => "Slet :record?",
-    "cannot_be_undone"      => "Denne handling kan ikke fortrydes.",
+    "delete_record"         => "Slett :record?",
+    "cannot_be_undone"      => "Denne handlingen kan ikke angres.",
     "warn_delete"           => "Dette vil permanent slette <strong>:name</strong> :record fra systemet.",
-    "delete_confirm"        => "Ja tak, Slet :record",
-    "keep_record"           => "Nej tak, Behold :record",
-    "delete_relations"      => "Sletning af <strong>:name</strong> :record vil også lave permanent sletning af alle de følgende relaterede data:",
-    "please_check"          => "Du skal afkrydse alle de ovenstående bokse for at bekræfte du forstår resultatet af denne uigenkaldelige handling.",
-    "failed_attachments"    => "Fejlede i vedhæftning af nogle filer.",
+    "delete_confirm"        => "Ja takk, slett :record",
+    "keep_record"           => "Nei takk, behold :record",
+    "delete_relations"      => "Sletting av <strong>:name</strong> :record vil også permanent slette alle følgende relaterte data:",
+    "please_check"          => "Du må krysse av alle boksene ovenfor for å bekrefte at du forstår resultatet av denne ugjenkallelige handlingen.",
+    "failed_attachments"    => "Feilet i vedlegging av noen filer.",
 
     /*
      * 2.3.1
      */
-    "sent_email"            => "Success - emailen er blevet sendt.",
-    "task_already_running"  => "Planlagt opgave kører automatisk i øjeblikket, forsøg igen om et øjeblik.",
-    "linked_account"        => "SOME kontoen er med success blevet linket til din konto.",
-    "already_linked"        => "SOME kontoen er allerede koblet til en anden konto. Log venligst ind med den anden konto og afkobl kontoen herfra.",
+    "sent_email"            => "Vellykket - e-posten er blitt sendt.",
+    "task_already_running"  => "Planlagt oppgave kjøres automatisk for øyeblikket, forsøk igjen om et øyeblikk.",
+    "linked_account"        => "SOME-kontoen er blitt koblet til din konto.",
+    "already_linked"        => "SOME-kontoen er allerede koblet til en annen konto. Logg vennligst inn med den andre kontoen og frakoble kontoen derfra.",
 
     /*
      * 2.4.0
      */
-    "does_look_correct"     => "Ser dette korrekt ud?",
-    "no_revert"             => "Nej! Gå tilbage",
-    "attachment_not_found"  => "Vedhæftningen blev ikke fundet.",
+    "does_look_correct"     => "Ser dette riktig ut?",
+    "no_revert"             => "Nei! Gå tilbake",
+    "attachment_not_found"  => "Vedlegget ble ikke funnet.",
 
     /*
      * 2.5.0
      */
-    "account_closed"        => "Din konto er blevet lukket. Kontakt os venligst hvis du mener dette er sket ved en fejl.",
-    "leave_record"          => "Forlad :record?",
-    "leave_record_warn"     => "Dette vil fjerne dig permanent fra :record.",
-    "success_trashed"       => ":item er flyttet til skraldespanden!",
-    "error_trashed"         => "Det lykkedes ikke at flytte :item til skraldespanden.",
-    "blocked_by_rule"       => "Forespørgslen blev blokeret af spam reglen ':text'.",
+    "account_closed"        => "Din konto er blitt lukket. Kontakt oss vennligst hvis du mener dette har skjedd ved en feil.",
+    "leave_record"          => "Forlat :record?",
+    "leave_record_warn"     => "Dette vil fjerne deg permanent fra :record.",
+    "success_trashed"       => ":item er flyttet til papirkurven!",
+    "error_trashed"         => "Det lyktes ikke å flytte :item til papirkurven.",
+    "blocked_by_rule"       => "Forespørselen ble blokkert av spamregelen ':text'.",
 
     /*
      * 3.0.0
      */
-    "popup_blocked"         => "Din browser blokerer popup vinduer. Aktiver popup vinduer og videresendelser for denne hjemmeside for anvendelse af forhåndsvisning.",
-    "error_editing_message" => "Der opstod en fejl i forsøget op at redigere denne besked.",
+    "popup_blocked"         => "Din nettleser blokkerer popup-vinduer. Aktiver popup-vinduer og videresendinger for denne hjemmesiden for bruk av forhåndsvisning.",
+    "error_editing_message" => "Det oppstod en feil i forsøket på å redigere denne meldingen.",
 
     /*
      * 4.1.1
      */
-    "brand_not_enabled"     => "This action cannot be performed as the brand is not enabled.",
-    "cannot_reply_to_internal" => "A user cannot reply to an internal ticket.",
+    "brand_not_enabled"     => "Denne handlingen kan ikke utføres da brandet ikke er aktivert.",
+    "cannot_reply_to_internal" => "En bruker kan ikke svare på en intern sak.",
 
     /*
      * 4.3.0
@@ -165,7 +165,7 @@ return array(
     /*
      * 5.0.0
      */
-    "lock_timeout"          => "Lock Timeout",
-    "lock_timeout_desc"     => "The server is currently busy processing other requests. Please try again.",
+    "lock_timeout"          => "Låsetidsbegrensning",
+    "lock_timeout_desc"     => "Serveren er for øyeblikket opptatt med å behandle andre forespørsler. Vennligst prøv igjen.",
 
 );

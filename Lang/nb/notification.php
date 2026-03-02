@@ -2,29 +2,29 @@
 
 return array(
 
-    "new_ticket"            => "Ny Ticket Åbnet",
-    "new_ticket_text"       => "En ny ticket #:item er åbnet af :name.",
+    "new_ticket"            => "Ny sak åpnet",
+    "new_ticket_text"       => "En ny sak #:item er åpnet av :name.",
 
-    "new_reply"             => "Nyt Ticket Svar ",
-    "new_reply_text"        => "Et nyt svar er tilføjet af :name på ticket #:item.",
+    "new_reply"             => "Nytt sakssvar",
+    "new_reply_text"        => "Et nytt svar er lagt til av :name på sak #:item.",
 
-    "failed_logins"         => "Fejlede Operatør Logins",
-    "new_comments"          => "Nye Kommentarer",
+    "failed_logins"         => "Feilede operatørinnlogginger",
+    "new_comments"          => "Nye kommentarer",
 
     /*
      * 2.0.2
      */
-    "private_message"       => "Ny Privat Besked",
+    "private_message"       => "Ny privat melding",
 
     /*
      * 2.1.1
      */
-    "private_message_text"  => ":name har sendt dig en ny <a href=':route'>privat besked</a>.",
+    "private_message_text"  => ":name har sendt deg en ny <a href=':route'>privat melding</a>.",
 
     /*
      * 4.2.0
      */
-    "new_mention"           => "New Mention",
-    "new_mention_text"      => ":name mentioned you in ticket #<a href=':route'>:number</a>.",
+    "new_mention"           => "Ny omtale",
+    "new_mention_text"      => ":name omtalte deg i sak #<a href=':route'>:number</a>.",
 
 );

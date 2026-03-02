@@ -2,160 +2,160 @@
 
 return array(
 
-    "popular_items"             => "Popular Items",
-    "latest_items"              => "Latest Items",
+    "popular_items"             => "Populære elementer",
+    "latest_items"              => "Siste elementer",
 
-    "selfservice"               => "Self-Service",
-    "article"                   => "Article|Articles",
-    "category"                  => "Category|Categories",
-    "comment"                   => "Comment|Comments",
-    "tag"                       => "Tag|Tags",
-    "type"                      => "Type|Types",
+    "selfservice"               => "Selvbetjening",
+    "article"                   => "Artikkel|Artikler",
+    "category"                  => "Kategori|Kategorier",
+    "comment"                   => "Kommentar|Kommentarer",
+    "tag"                       => "Tagg|Tagger",
+    "type"                      => "Type|Typer",
 
-    "frontend_icon"             => "Frontend Icon",
+    "frontend_icon"             => "Frontendikon",
 
-    "no_categories"             => ":type har ikke nogle kategorier. Opret venligst en kategori før du tilføjer en artikel.",
-    "no_categories_frontend"    => "Der er ikke nogle kategorier at vise.",
+    "no_categories"             => ":type har ingen kategorier. Opprett vennligst en kategori før du legger til en artikkel.",
+    "no_categories_frontend"    => "Det er ingen kategorier å vise.",
 
-    "awaiting_moderation"       => "Afventer Moderation",
-    "published"                 => "Publiceret",
+    "awaiting_moderation"       => "Avventer moderasjon",
+    "published"                 => "Publisert",
     "spam"                      => "Spam",
 
     "hierarchical"              => "Hierarkisk",
     "list"                      => "Liste",
 
-    "show_on_dashboard"         => "Vis artiker på Frontend",
-    "show_on_dashboard_desc"    => "Viser nogle artikler på. Hvis vis er defineret til <strong>hierarchical</strong>, vil de 5 mest læste artikler vises, hvis <strong>list</strong>, vil de 5 seneste artikler vises.",
+    "show_on_dashboard"         => "Vis artikler på frontend",
+    "show_on_dashboard_desc"    => "Viser noen artikler på frontend. Hvis visning er satt til <strong>hierarkisk</strong>, vil de 5 mest leste artiklene vises, hvis <strong>liste</strong>, vil de 5 nyeste artiklene vises.",
 
-    "title"                     => "Titel",
+    "title"                     => "Tittel",
     "author"                    => "Forfatter",
-    "keyword"                   => "Nøgleord|Nøgleord",
-    "excerpt"                   => "Uddrag",
-    "associate_tag"             => "Associater artikel med et tag...",
-    "associate_category"        => "Associater artikel med en kategori...",
-    "published_desc"            => "Definerer om artiklen kan vises offentligt. Hvis den ikke er publiceret kan den stadig vises via den direkte URL forudsat en af kategorierne er offentlige.",
-    "registered_users_desc"     => "Aktiver for kun at vise artikler til brugere der er logget ind.",
+    "keyword"                   => "Nøkkelord|Nøkkelord",
+    "excerpt"                   => "Utdrag",
+    "associate_tag"             => "Knytt artikkel til en tagg...",
+    "associate_category"        => "Knytt artikkel til en kategori...",
+    "published_desc"            => "Bestemmer om artikkelen kan vises offentlig. Hvis den ikke er publisert, kan den likevel vises via den direkte URL-en forutsatt at en av kategoriene er offentlige.",
+    "registered_users_desc"     => "Aktiver for kun å vise artikler til brukere som er logget inn.",
 
-    "comment_by"                => "Kommentar Af",
-    "replying_to"               => "Du Besvarer",
-    "receive_notifications"     => "Modtag notifikationer for fremtidige svar",
+    "comment_by"                => "Kommentar av",
+    "replying_to"               => "Du svarer",
+    "receive_notifications"     => "Motta varsler for fremtidige svar",
 
-    "login_comment"             => "Du skal være logget ind for at tilføje en kommentar.",
+    "login_comment"             => "Du må være logget inn for å legge til en kommentar.",
     "incorrect_captcha"         => "Captcha var ikke korrekt.",
-    "comment_blocked"           => "Kommentarer blev blokeret grundet spam.",
-    "comment_success"           => "Din kommentar blev tilføjet!",
-    "comment_success_moderated" => "Din kommentar er blevet tilføjet til gennemsyn af en af vores medarbejdere.",
+    "comment_blocked"           => "Kommentarer ble blokkert på grunn av spam.",
+    "comment_success"           => "Kommentaren din ble lagt til!",
+    "comment_success_moderated" => "Kommentaren din er lagt til for gjennomgang av en av våre medarbeidere.",
 
-    "comment_rated_success"     => "Kommentaren blev vurderet med success.",
+    "comment_rated_success"     => "Kommentaren ble vurdert.",
     "comment_rated_error"       => "Kommentaren kunne ikke vurderes.",
 
-    "article_find_useful"       => "Fandt du denne artikel brugbar?",
-    "article_rated_success"     => "Artiklen blev vurderet med success.",
-    "article_rated_error"       => "Artiklen kunne ikke vurderes.",
+    "article_find_useful"       => "Fant du denne artikkelen nyttig?",
+    "article_rated_success"     => "Artikkelen ble vurdert.",
+    "article_rated_error"       => "Artikkelen kunne ikke vurderes.",
 
-    "comment_below_threshold"   => "(Kommentaren er under vurderingsgrænsen, klik for at vise)",
+    "comment_below_threshold"   => "(Kommentaren er under vurderingsgrensen, klikk for å vise)",
     "view_all_replies"          => "Se alle svar",
     "show_more_comments"        => "Vis flere kommentarer",
-    "highest_rated"             => "Højest vurderede",
+    "highest_rated"             => "Høyest vurderte",
     "newest"                    => "Nyeste",
-    "oldest"                    => "Ældste",
+    "oldest"                    => "Eldste",
 
     "no_articles"               => "Ingen artikler.",
 
-    "related_articles"          => "Relaterede Artikler",
+    "related_articles"          => "Relaterte artikler",
 
     "rating"                    => "Vurdering|Vurderinger",
 
-    "rssfeed"                   => "RSS Feed",
+    "rssfeed"                   => "RSS-feed",
 
     // General settings
-    "settings"                  => "Selvhjælps Indstillinger",
-    "enable_comments"           => "Aktiver Kommentarer",
-    "enable_comments_desc"      => "Tillad brugere at kommentere artikler.",
-    "write_comments"            => "Skriv Kommentarer",
-    "write_comments_desc"       => "Definerer om kommentarer kan oprettes af alle eller udelukkende registrerede brugere.",
-    "registered_users"          => "Kun for registrerede brugere",
-    "unregistered_users"        => "Kun for brugere der ikke er registreret",
+    "settings"                  => "Selvbetjeningsinnstillinger",
+    "enable_comments"           => "Aktiver kommentarer",
+    "enable_comments_desc"      => "Tillat brukere å kommentere artikler.",
+    "write_comments"            => "Skriv kommentarer",
+    "write_comments_desc"       => "Bestemmer om kommentarer kan opprettes av alle eller kun registrerte brukere.",
+    "registered_users"          => "Kun for registrerte brukere",
+    "unregistered_users"        => "Kun for brukere som ikke er registrert",
     "show_captcha"              => "Vis Captcha",
-    "show_captcha_desc"         => "Definerer om Captcha skal vises for brugere der skriver kommentarer.",
-    "comment_moderation"        => "Kommentar Moderation",
-    "comment_moderation_desc"   => "Definerer om kommentarer skal modereres før de bliver vist offentligt, eller om de automatisk bliver offentligt tilgængelige.",
-    "moderated"                 => "Modereret",
-    "unmoderated"               => "Ikke modereret",
-    "comment_threshold"         => "Kommentar grænse",
-    "comment_threshold_desc"    => "Kommentar vurderinger som er mindre end og ikke lig med denne værdi vil få deres synlighed reduceret og skal klikkes på for at blive vist.",
+    "show_captcha_desc"         => "Bestemmer om Captcha skal vises for brukere som skriver kommentarer.",
+    "comment_moderation"        => "Kommentarmoderasjon",
+    "comment_moderation_desc"   => "Bestemmer om kommentarer skal modereres før de vises offentlig, eller om de automatisk gjøres offentlig tilgjengelige.",
+    "moderated"                 => "Moderert",
+    "unmoderated"               => "Ikke moderert",
+    "comment_threshold"         => "Kommentargrense",
+    "comment_threshold_desc"    => "Kommentarvurderinger som er lavere enn og ikke lik denne verdien vil få redusert synlighet og må klikkes på for å vises.",
 
-    "enable_ratings"            => "Aktiver artikel vurderinger",
-    "enable_ratings_desc"       => "Tillad brugere at vurdere artikler.",
+    "enable_ratings"            => "Aktiver artikkelvurderinger",
+    "enable_ratings_desc"       => "Tillat brukere å vurdere artikler.",
     "post_rating"               => "Vurder artikler",
-    "post_rating_desc"          => "Definer om artikler kan vurderes af alle eller kun registrerede brugere.",
+    "post_rating_desc"          => "Bestem om artikler kan vurderes av alle eller kun registrerte brukere.",
 
     /*
      * 2.0.3
      */
-    "auth_required"             => "Log venligst ind eller registrer en konto for at se denne artikel.",
+    "auth_required"             => "Logg vennligst inn eller registrer en konto for å se denne artikkelen.",
 
     /*
      * 2.1.0
      */
-    "view_articles"             => "Vis Artikler",
-    "view_categories"           => "Vis Kategorier",
-    "add_to_another_type"       => "Tilføj til en anden type",
-    "select_type"               => "Vælg Type...",
-    "visibility"                => "Synlighed",
-    "reply_to_comment"          => "Besvar kommentar",
-    "article_brand_warning"     => "Denne artikel eksisterer i et brand som du ikke er tilknyttet, ændringer du foretager vil også vises i det brand.",
-    "viewing_article"           => "Ser Artikel",
-    "article_count"             => "Artikel antal",
+    "view_articles"             => "Vis artikler",
+    "view_categories"           => "Vis kategorier",
+    "add_to_another_type"       => "Legg til i en annen type",
+    "select_type"               => "Velg type...",
+    "visibility"                => "Synlighet",
+    "reply_to_comment"          => "Svar på kommentar",
+    "article_brand_warning"     => "Denne artikkelen finnes i et brand du ikke er tilknyttet, endringer du gjør vil også vises i det brandet.",
+    "viewing_article"           => "Ser artikkel",
+    "article_count"             => "Antall artikler",
 
     /*
      * 2.2.0
      */
-    "article_desc"              => "Artiklen kan oprettes på flere sprog. Den passende artikel vil automatisk blive vist baseret på brugerens sprog præference.",
-    "no_author"                 => "Ingen Forfatter",
+    "article_desc"              => "Artikkelen kan opprettes på flere språk. Den passende artikkelen vil automatisk vises basert på brukerens språkpreferanse.",
+    "no_author"                 => "Ingen forfatter",
 
     /*
      * 2.3.1
      */
     "slug"                      => "Slug",
-    "slug_desc"                 => "Den URL-venlige version af navnet. Typisk med små bogstaver og indeholdende udelukkende bogstaver, tal, og bindestreger.",
-    "change_slug"               => "Skift Slug",
-    "published_date"            => "Publicerings Dato",
-    "published_date_desc"       => "Dato og tid for oprettelse af artiklen der er publiceret til visning på frontend.",
-    "content_options"           => "Indholds Muligheder",
-    "content_desc"              => "Indholdet der vil blive vist med denne type.<br /><strong>Articles</strong> - En samling af opslag der kan grupperes (såsom en vidensdatabase) eller opbevares individuelt (såsom en annoncering).<br /><strong>Eksternt Link</strong> - Tilføj et link til en ekstern side, såsom en dokumentations portal.",
-    "external_link"             => "Eksternt Link",
-    "type_view_desc"            => "Hvis dit indhold vil indeholde mange kategorier og være informativ tilsvarende en vidensdatabase, anbefaler vi den hierakiske visning, hvorimod hvis dit indhold er tids-relateret såsom en annoncering eller en blog, anbefaler vi liste visningen. Muligheden for brug af eksternt link kan anvendes hvis du har brug for at tilføje et link til en sektion udenfor helpdesken.",
-    "pinned"                    => "Fastgjort",
-    "pinned_desc"               => "Fastgør så den vises på toppen af frontenden. Gældende udelukkende for liste visnings typen.",
-    "article_ordering"          => "Artikel Sortering",
-    "article_ordering_desc"     => "Sorteringen af artikler ved visning på frontend.",
-    "most_popular"              => "Mest Populære",
+    "slug_desc"                 => "Den URL-vennlige versjonen av navnet. Typisk med små bokstaver og inneholdende kun bokstaver, tall og bindestreker.",
+    "change_slug"               => "Endre slug",
+    "published_date"            => "Publiseringsdato",
+    "published_date_desc"       => "Dato og tid for opprettelse av artikkelen som er publisert for visning på frontend.",
+    "content_options"           => "Innholdsalternativer",
+    "content_desc"              => "Innholdet som vil vises med denne typen.<br /><strong>Artikler</strong> - En samling innlegg som kan grupperes (som en kunnskapsbase) eller lagres individuelt (som en kunngjøring).<br /><strong>Eksternt lenke</strong> - Legg til en lenke til en ekstern side, for eksempel en dokumentasjonsportal.",
+    "external_link"             => "Eksternt lenke",
+    "type_view_desc"            => "Hvis innholdet ditt vil inneholde mange kategorier og være informativt tilsvarende en kunnskapsbase, anbefaler vi hierarkisk visning, mens hvis innholdet ditt er tidsrelatert som en kunngjøring eller en blogg, anbefaler vi listevisning. Alternativet for bruk av eksternt lenke kan brukes hvis du trenger å legge til en lenke til en seksjon utenfor helpdesken.",
+    "pinned"                    => "Festet",
+    "pinned_desc"               => "Fest slik at den vises øverst på frontend. Gjelder kun for listevisningstypen.",
+    "article_ordering"          => "Artikkelsortering",
+    "article_ordering_desc"     => "Sorteringen av artikler ved visning på frontend.",
+    "most_popular"              => "Mest populære",
     "most_recent"               => "Nyeste",
-    "type_order"                => "Du kan ændre ordren som selvhjælps typerne vises for brugere ved at trække og slippe rækkerne.",
-    "type_enabled_desc"         => "Deaktiverer du typen vil den ikke længere vises.",
+    "type_order"                => "Du kan endre rekkefølgen selvbetjeningstypene vises for brukere ved å dra og slippe radene.",
+    "type_enabled_desc"         => "Deaktiverer du typen vil den ikke lenger vises.",
     "internal"                  => "Intern",
-    "internal_desc"             => "Skift for at sætte typen som synlig udelukkende for interne operatører i operatør panelet.",
-    "login_to_comment"          => "Log venligst ind for at tilføje en kommentar.",
-    "article_rating"            => "Artikel vudering|Artikel vurderinger",
-    "comment_rating"            => "Kommentar vurdering|Kommentar vurderinger",
+    "internal_desc"             => "Aktiver for å sette typen som synlig kun for interne operatører i operatørpanelet.",
+    "login_to_comment"          => "Logg vennligst inn for å legge til en kommentar.",
+    "article_rating"            => "Artikkelvurdering|Artikkelvurderinger",
+    "comment_rating"            => "Kommentarvurdering|Kommentarvurderinger",
 
     /*
      * 2.5.0
      */
-    "revision_history"          => "Revisions Historik",
+    "revision_history"          => "Revisjonshistorikk",
 
     /*
      * 3.0.0
      */
-    "type_protected_desc"       => "Aktiver for kun at vise indhold af denne type for brugere der er logget ind.",
-    "article_feedback"          => "Artikel Feedback",
-    "frontend_icon_desc"        => "Vælg et <a href='https://fontawesome.com/icons' target='_blank'>FontAwesome</a> regulært icon til visning på frontenden for den valgte type, du kan også søge efter et brugerdefineret ikon som ikke er inkluderet i listen (startende med 'fa-').",
-    "comment_deleted"           => "Comment deleted",
+    "type_protected_desc"       => "Aktiver for kun å vise innhold av denne typen for brukere som er logget inn.",
+    "article_feedback"          => "Artikkeltilbakemelding",
+    "frontend_icon_desc"        => "Velg et <a href='https://fontawesome.com/icons' target='_blank'>FontAwesome</a>-ikon for visning på frontend for den valgte typen, du kan også søke etter et egendefinert ikon som ikke er inkludert i listen (starter med 'fa-').",
+    "comment_deleted"           => "Kommentar slettet",
 
     /*
      * 5.3.0
      */
-    "in_reply_to"               => "in reply to",
+    "in_reply_to"               => "svar til",
 
 );

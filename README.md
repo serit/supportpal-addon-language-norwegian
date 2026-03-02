@@ -1,4 +1,4 @@
-# SupportPal Language Pack  - Norwegian (nb-NO)
+# SupportPal Language Pack  - Norwegian (NO-NB)
 
 Norwegian language pack for the [SupportPal](https://www.supportpal.com) system.
 

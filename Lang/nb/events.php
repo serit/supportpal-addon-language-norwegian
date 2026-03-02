@@ -5,35 +5,35 @@ return array(
     /*
      * 2.4.0
      */
-    "new_ticket"            => "Ny ticket åbnet",
-    "user_reply"            => "Bruger besvarelse modtaget",
-    "operator_reply"        => "Operatør svar sendt",
-    "operator_note"         => "Operatør note tilføjet",
-    "operator_forward"      => "Operatør videresend udført",
-    "update_department"     => "Afdeling opdateret",
-    "update_status"         => "Status opdateret",
-    "update_priority"       => "Prioritet opdateret",
-    "update_tags"           => "Tags opdateret",
-    "update_assigned"       => "Tildelt operatør opdateret",
-    "update_user"           => "Bruger opdateret",
-    "update_brand"          => "Brand opdateret",
-    "update_subject"        => "Emne opdateret",
-    "update_watching"       => "Tilskende operatører opdateret",
+    "new_ticket"            => "Ny sak åpnet",
+    "user_reply"            => "Brukersvar mottatt",
+    "operator_reply"        => "Operatørsvar sendt",
+    "operator_note"         => "Operatørnotat lagt til",
+    "operator_forward"      => "Operatørvideresendig utført",
+    "update_department"     => "Avdeling oppdatert",
+    "update_status"         => "Status oppdatert",
+    "update_priority"       => "Prioritet oppdatert",
+    "update_tags"           => "Tagger oppdatert",
+    "update_assigned"       => "Tildelt operatør oppdatert",
+    "update_user"           => "Bruker oppdatert",
+    "update_brand"          => "Brand oppdatert",
+    "update_subject"        => "Emne oppdatert",
+    "update_watching"       => "Tilskuende operatører oppdatert",
 
     /*
      * 5.0.0
      */
-    "update_custom_field"   => "Custom field updated",
-    "operator_draft"        => "Operator draft updated",
-    "update_cc"             => "CC email addresses updated",
-    "update_due_time"       => "Due time updated",
-    "update_sla_plan"       => "SLA plan updated",
-    "update_locked"         => "Ticket locked",
-    "update_unlocked"       => "Ticket unlocked",
+    "update_custom_field"   => "Egendefinert felt oppdatert",
+    "operator_draft"        => "Operatørutkast oppdatert",
+    "update_cc"             => "CC e-postadresser oppdatert",
+    "update_due_time"       => "Frist oppdatert",
+    "update_sla_plan"       => "SLA-plan oppdatert",
+    "update_locked"         => "Sak låst",
+    "update_unlocked"       => "Sak låst opp",
 
     /*
      * 5.1.0
      */
-    "update_message"        => "Message updated",
+    "update_message"        => "Melding oppdatert",
 
 );
