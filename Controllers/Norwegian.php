@@ -1,10 +1,10 @@
 <?php declare(strict_types=1);
 
-namespace Addons\Languages\Danish\Controllers;
+namespace Addons\Languages\Norwegian\Controllers;
 
 use App\Modules\Core\Controllers\Languages\Language;
 
-class Danish extends Language
+class Norwegian extends Language
 {
     /**
      * Plugins can run an installation routine when they are activated. This will typically include adding default
