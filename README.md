@@ -1,6 +1,6 @@
-# SupportPal Language Pack  - Danish (da)
+# SupportPal Language Pack  - Norwegian (NO-NB)
 
-Danish language pack for the [SupportPal](https://www.supportpal.com) system.
+Norwegian language pack for the [SupportPal](https://www.supportpal.com) system.
 
 SupportPal is a [self-hosted, on-premise help desk software](https://www.supportpal.com).
 
